@@ -1,5 +1,11 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin:0cm
+}
+nav a
 {
-    background-color: black
-    text-alight: center
-    
+    margin-top: 5px;
+    padding: auto;
+    font-size: medium;
+    color: black
 }
